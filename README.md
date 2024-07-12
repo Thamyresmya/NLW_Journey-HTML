@@ -20,10 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Neste repositório você tem acesso a todo o material desenvolvido.
 
-## 🎨 Figma
-
-💜 Acesse o [**link**](https://www.figma.com/community/file/1392277205162897872/nlw-journey-roteiro-de-viagem) do Figma aqui!
-
 
 ## Desenvolvedores
 
